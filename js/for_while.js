@@ -11,3 +11,7 @@ do {
     num++;
 }
  while(num < 55);
+
+ for(let i=0; i<3; i++){
+
+ }
